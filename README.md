@@ -5,7 +5,7 @@
 
 Official implementation of **"Enhanced YOLOv8 for Accurate and Efficient Floating Object Detection on Water Surfaces"** ( FROM *The Visual Computer*).  
 
-
+SEDS-YOLOv8 is an optimized YOLOv8 variant designed for accurate and efficient detection of floating objects on water surfaces, addressing challenges like reflections, waves, and low-contrast targets.
 ---
 
 ## 📌 Features
