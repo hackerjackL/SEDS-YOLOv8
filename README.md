@@ -87,3 +87,19 @@ yolo detect train \
   weight_decay=0.0005 \
   cache=disk \
   name=SEDS-YOLOv8_training
+
+How to Cite This Work
+
+To cite the SEDS-YOLOv8 framework or dataset in your research, please use the following DOI (all versions):
+@software{SEDS_YOLOv8_2025,  
+  author       = {Yan Peng Cao, HaoWen Luo, Meng Di Wang, Yue Wang, Zhi Qiang Hao},  
+  title        = {{Enhanced YOLOv8 for Accurate and Efficient Detection on Water Surfaces}},  
+  year         = {2025},  
+  publisher    = {Zenodo},  
+  doi          = {10.5281/zenodo.15139369},  
+  url          = {https://doi.org/10.5281/zenodo.15139369}  
+}  
+Notes:
+Replace {Authors} with the full list of contributors.
+This DOI resolves to the latest version of the code/dataset. For specific versions, visit the Zenodo repository.
+Ensure compliance with the GNU GPL 3.0 license terms when redistributing or modifying the code.
