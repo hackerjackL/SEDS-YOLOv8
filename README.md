@@ -3,7 +3,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Official implementation of **"Enhanced YOLOv8 for Accurate and Efficient Floating Object Detection on Water Surfaces"** ( FROM *The Visual Computer*).  
+Official implementation of **"Enhanced YOLOv8 for Accurate and Efficient Floating Object Detection on Water Surfaces"** ( FROM *Machine Vision and Applications*).  
 
 SEDS-YOLOv8 is an optimized YOLOv8 variant designed for accurate and efficient detection of floating objects on water surfaces, addressing challenges like reflections, waves, and low-contrast targets.
 ---
